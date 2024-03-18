@@ -1,0 +1,8 @@
+INFO:root:Insert into tLog and retrieve logID
+INFO:root:Created logID: 83977d24-1cfe-4ad7-9494-92e89cd812bc
+INFO:root:There are new panelists migrated yesterday 2024-03-17
+INFO:root:Email sent.
+INFO:root:Updating tLog logID: 83977d24-1cfe-4ad7-9494-92e89cd812bc with status: 1
+INFO:root:SGTAM log updated.
+INFO:root:Enter finally clause.
+INFO:root:Ensure SQL Alchemy engine is stopped and disposed.
